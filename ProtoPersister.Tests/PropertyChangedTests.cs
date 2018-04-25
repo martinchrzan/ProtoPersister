@@ -1,6 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Proto.Tests
+namespace ProtoPersister.Tests
 {
     [TestClass]
     public class PropertyChangedTests

@@ -3,7 +3,7 @@ using System.Collections;
 using System.ComponentModel;
 using System.Threading;
 
-namespace Proto
+namespace ProtoPersister
 {
     public class Persister<T> : IDisposable
     {

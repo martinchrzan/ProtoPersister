@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace Proto.Tests
+namespace ProtoPersister.Tests
 {
     public class TrackingObject : INotifyPropertyChanged
     {

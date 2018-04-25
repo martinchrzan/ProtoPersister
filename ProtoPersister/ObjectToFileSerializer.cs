@@ -4,7 +4,7 @@ using System;
 using System.IO;
 using System.Linq;
 
-namespace Proto
+namespace ProtoPersister
 {
     internal sealed class ObjectToFileSerializer
     {

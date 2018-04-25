@@ -1,6 +1,6 @@
 using System;
 
-namespace Proto
+namespace ProtoPersister
 {
     public class PersisterSettings
     {

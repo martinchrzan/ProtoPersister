@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Proto
+namespace ProtoPersister
 {
     internal class UndoRedoHandler<T> : IUndoRedoHandler<T>
     {

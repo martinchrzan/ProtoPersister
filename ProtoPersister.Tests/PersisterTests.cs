@@ -2,7 +2,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.ObjectModel;
 
-namespace Proto.Tests
+namespace ProtoPersister.Tests
 {
     [TestClass]
     public class PersisterTests

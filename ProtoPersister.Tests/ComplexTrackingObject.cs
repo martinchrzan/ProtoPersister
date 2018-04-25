@@ -3,7 +3,7 @@ using System.Collections.ObjectModel;
 using System.Collections.Generic;
 using System;
 
-namespace Proto.Tests
+namespace ProtoPersister.Tests
 {
     /// <summary>
     /// Contains all basic build in types such as reference types, value types, enums, struct, arrays, 

@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Proto.Tests
+namespace ProtoPersister.Tests
 {
     public static class TestsHelper
     {
